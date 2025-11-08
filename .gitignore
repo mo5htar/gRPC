@@ -1,5 +1,8 @@
 # Node modules
+server/
+*.log
 node_modules/
 
 # Environment files
 .env
+
