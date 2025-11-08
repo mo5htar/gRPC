@@ -1,5 +1,4 @@
 # Node modules
-server/
 *.log
 node_modules/
 
